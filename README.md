@@ -10,7 +10,7 @@
 
 ## Language
 
-Danish is the default. The language toggle can switch the birthday experience and main website to English. The developer reveal is intentionally language-locked to Danish.
+Danish is the default. The language toggle can switch the birthday experience and main website to English. 
 
 ## Assets
 
